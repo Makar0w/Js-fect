@@ -9,6 +9,6 @@ like https://github.com/Makar0w/ChillingHttp . There is an
 
 usage of it in the template of https://github.com/Makar0w/ChillingHttp
 
-too if you did not understand of it is working if need more help
+too , if you did not understand how it is working and if need further help
 
 with vanta.fog here the guide https://github.com/tengbao/vanta .
